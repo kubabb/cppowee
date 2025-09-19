@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kubar\\Downloads\\notatki owee\\c\u002B\u002B\\Zadanie13_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2B91F-0B89-4548-8742-FD51C103F83B}|Zadanie13_2025\\Zadanie13_2025.vcxproj|C:\\Users\\kubar\\Downloads\\notatki owee\\c\u002B\u002B\\Zadanie13_2025\\Zadanie13_2025\\Zadanie13_2025.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DD2B91F-0B89-4548-8742-FD51C103F83B}|Zadanie13_2025\\Zadanie13_2025.vcxproj|solutionrelative:Zadanie13_2025\\Zadanie13_2025.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadanie13_2025.cpp",
+              "DocumentMoniker": "C:\\Users\\kubar\\Downloads\\notatki owee\\c\u002B\u002B\\Zadanie13_2025\\Zadanie13_2025\\Zadanie13_2025.cpp",
+              "RelativeDocumentMoniker": "Zadanie13_2025\\Zadanie13_2025.cpp",
+              "ToolTip": "C:\\Users\\kubar\\Downloads\\notatki owee\\c\u002B\u002B\\Zadanie13_2025\\Zadanie13_2025\\Zadanie13_2025.cpp*",
+              "RelativeToolTip": "Zadanie13_2025\\Zadanie13_2025.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-19T19:32:55.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
