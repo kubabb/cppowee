@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kubar\\Downloads\\notatki owee\\c\u002B\u002B\\Zadanie26_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF51318-5F4B-4629-B0AC-93B289D4725B}|Zadanie26_2024\\Zadanie26_2024.vcxproj|C:\\Users\\kubar\\Downloads\\notatki owee\\c\u002B\u002B\\Zadanie26_2024\\Zadanie26_2024\\Zadanie26_2024.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEF51318-5F4B-4629-B0AC-93B289D4725B}|Zadanie26_2024\\Zadanie26_2024.vcxproj|solutionrelative:Zadanie26_2024\\Zadanie26_2024.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadanie26_2024.cpp",
+              "DocumentMoniker": "C:\\Users\\kubar\\Downloads\\notatki owee\\c\u002B\u002B\\Zadanie26_2024\\Zadanie26_2024\\Zadanie26_2024.cpp",
+              "RelativeDocumentMoniker": "Zadanie26_2024\\Zadanie26_2024.cpp",
+              "ToolTip": "C:\\Users\\kubar\\Downloads\\notatki owee\\c\u002B\u002B\\Zadanie26_2024\\Zadanie26_2024\\Zadanie26_2024.cpp*",
+              "RelativeToolTip": "Zadanie26_2024\\Zadanie26_2024.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T21:15:04.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
